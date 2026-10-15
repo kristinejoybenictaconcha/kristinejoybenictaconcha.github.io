@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Student portfolio showcasing skills, projects, and achievements.">
+  <title>Kristine Joy B. Concha | Portfolio</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body
+
+  Navigation -->
+  <header class="site-header">
+    <nav class="navbar">
+      <a class="logo" href="#home">MyPortfolio</a>
+      <ul class="nav-links">
+        <li><a href="#home">Home</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <!-- Home Section -->
+    <section id="home" class="hero">
+      <div class="hero-content">
+        <div class="profile-container">
+          <img id="profileImage" src="images/profile.jpg" alt="Student profile photo" loading="lazy">
+        </div>
+        <h1>Hello, I'm <span id="studentName">Kristine Joy B. Concha</span></h1>
+        <h2 id="tagline">Aspiring Future Programmer</h2>
+        <p id="introduction">I am a BSIT student passionate about networking, security, and building useful applications.</p>
+        <div class="hero-btns">
+          <a href="#projects" class="btn">View My Projects</a>
+          <a href="#contact" class="btn secondary">Contact Me</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="section">
+      <h2>About Me</h2>
+      <div class="about-grid"> I am a passionate Programmer specializing in networking management and security, with strong skills in reflective writing, research, and Java programming, driven by creativity and problem-solving, eager to explore new technologies, travel to discover diverse cultures, design engaging academic projects, and continuously strive for academic excellence and personal growtth.
+        <p id="biography"></p>
+        <div class="about-details">
+          <p><strong>School:</strong> <span id="school">Nueva Vizcaya State University</span></p>
+          <p><strong>Program:</strong> <span id="program">Bachelor of Scince in Information Technology</span></p>
+          <p><strong>Graduation:</strong> <span id="graduation">Expected graduation 2028</span></p>
+          <p><strong>Career Goal:</strong> <span id="careerGoal">To become a cybersecurity specialist and contribute to secure digital infrastructures</span></p>
+          <p><strong>Interests:</strong> <span id="interests">"Programming, travel, fitness, and digital trends</span></p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Skills Section -->
+    <section id="skills" class="section bg-light">
+      <h2>My Skills</h2>
+      <div id="skillsContainer" class="skills-container">
+        <!-- Skills will be loaded from projects.json -->
+      </div>
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects" class="section">
+      <h2>My Projects</h2>
+      <p id="projectsStatus">Loading projects...</p>
+      <div id="projectsContainer" class="projects-grid">
+        <!-- Projects will be loaded from projects.json -->
+      </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="section bg-light">
+      <h2>Contact Me</h2>
+      <div class="contact-info">
+        <p><strong>Email:</strong> <span id="email"> kristinejoybenictaconcha@gmail.com</span></p>
+        <p><strong>Location:</strong> <span id="location">Salinas,Bambang,Nueva Vizcaya</span></p>
+        <p><strong>LinkedIn:</strong> <a id="linkedin" href="#" target="_blank">View Profile</a></p>
+        <p><strong>GitHub:</strong> <a id="githubLink" href="#" target="_blank">View GitHub</a></p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p> 2026 Kristine Joy B. Concha. All rights reserved.</p>
+  </footer>
+
+  <script src="js/script.js"></script>
+</body>
+</html>

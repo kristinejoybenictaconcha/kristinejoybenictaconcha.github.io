@@ -1,0 +1,39 @@
+{
+  "name": "Kristine Joy B. Concha",
+  "tagline": "Aspiring Cybersecurity Specialist",
+  "introduction": "I am a BSIT student passionate about networking, security, and building useful applications.",
+  "profileImage": "images/profile.jpg",
+  "about": {
+    "biography": "I enjoy learning programming, exploring technology, and designing creative academic projects.",
+    "school": "Nueva Vizcaya State University",
+    "program": "Bachelor of Science in Information Technology",
+    "graduation": "Expected graduation: 2029",
+    "careerGoal": "To become a cybersecurity specialist and contribute to secure digital infrastructures.",
+    "interests": "Programming, travel, fitness, and digital trends."
+  },
+  "skills": ["HTML", "CSS", "JavaScript", "Java", "Networking", "Cybersecurity"],
+  "projects": [
+    {
+      "title": "Student Record System",
+      "description": "An application for organizing student records.",
+      "technologies": "Java, MySQL",
+      "role": "Designed interface and record management.",
+      "image": "images/profile.jpg",
+      "link": "#"
+    },
+    {
+      "title": "Personal Portfolio",
+      "description": "A responsive website presenting my profile and skills.",
+      "technologies": "HTML, CSS, JavaScript",
+      "role": "Designed and developed the website.",
+      "image": "images/profile.jpg",
+      "link": "#"
+    }
+  ],
+  "githubUsername": "krib-concha",
+  "contact": {
+    "email": "kristinejoybenictaconcha@gmail.com",
+    "location": "Nueva Vizcaya, Philippines",
+    "linkedin": "https://linkedin.com"
+  }
+}
