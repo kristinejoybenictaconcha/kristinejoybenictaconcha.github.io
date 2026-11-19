@@ -1,0 +1,33 @@
+{
+  "name": "Kristine Joy B. Concha",
+  "course": "BSIT - Networking Management and Security",
+  "school": "NVSU",
+  "location": "Salinas West, Bambang, Nueva Vizcaya",
+  "email": "kristinejoybenictaconcha@gmail.com",
+  "number": "09978019722",
+  "about": "Hello! I'm Kristine Joy B. Concha, 2nd Year BS Information Technology student at NVSU, majoring in Networking Management and Security. I have a strong passion for cybersecurity, networking, and continuous learning. I graduated with honors during Junior and Senior High School at Salinas High School and Elementary. My goal is to become a cybersecurity professional contributing to safer digital environments.",
+  "family": [
+    { "label": "Father's Name", "value": "Frederick V. Concha Jr. (Government Employee)" },
+    { "label": "Mother's Name", "value": "Dolly Joy L. Benicta (Housewife)" },
+    { "label": "Step Mother", "value": "May-ann O. Concha (Housewife)" },
+    { "label": "Siblings", "value": "Mhark Louies O. Concha (Grade 7), Mike Lloyd O. Concha (Grade 2), Maxine Liana O. Concha (10 months old)" }
+  ],
+  "skills": [
+    { "title": "Technical & Programming", "desc": "HTML, CSS, JavaScript, Networking Management, Network Security, System Troubleshooting" },
+    { "title": "Tools & Technologies", "desc": "Git & GitHub, VS Code, Chrome DevTools, Microsoft Office, Windows OS" },
+    { "title": "Soft Skills", "desc": "Discipline, Willingness to Learn, Problem Solving, Communication, Honor Student" }
+  ],
+  "projects": [
+    {
+      "title": "My Portfolio Website",
+      "description": "My personal portfolio with Black/Red/Purple cybersecurity theme, Dark/Light toggle, and responsive design. Built with pure HTML, CSS, JS.",
+      "tags": "HTML • CSS • JavaScript • Networking Management and Security",
+      "link": "https://kristinejoybenictaconcha.github.io"
+    }
+  ],
+  "education": [
+    { "year": "2025 - present", "school": "Nueva Vizcaya State University", "detail": "BSIT Major in Networking Management and Security" },
+    { "year": "2019 - 2025", "school": "Salinas High School", "detail": "Graduated 2025 with Honors (JHS & SHS)" },
+    { "year": "2013 - 2019", "school": "Salinas Elementary School", "detail": "Graduated 2019 with Honors" }
+  ]
+}
